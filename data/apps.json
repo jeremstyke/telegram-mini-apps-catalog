@@ -14,6 +14,16 @@
       "status": "ok"
     },
     {
+      "name": "Bumpkin Legends",
+      "url": "https://t.me/Bumpkinlegends_bot",
+      "description": "Pixel-art MMORPG inside Telegram: hunt monsters, fight the World Boss with other players, join clans in the weekly War of Kingdoms, collect pets and trade items on a player market. Available in EN/IT/RU/TR.",
+      "category": "Games",
+      "contributedBy": "OceanBytess",
+      "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#95",
+      "lastChecked": "2026-10-14",
+      "status": "ok"
+    },
+    {
       "name": "Catallaxy",
       "url": "https://t.me/catallaxy_bot",
       "description": "Marketplace for digital goods paid in GRAM or USDT — gift cards, game top-ups, Telegram Stars and Premium, per-message AI, and TON utilities, with instant in-browser delivery. [Site](https://ctlx.cc) also available.",
