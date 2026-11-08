@@ -23,6 +23,7 @@ has been untouched.
 
 ## Products
 
+- [AI Football Predictor](https://aifootpredictor.com/?src=catalog) - Win, draw and loss probabilities for every football match in 25+ competitions, checked against real results. Predicted league tables, live scores, Mini App and website, English and French.
 - [Appla](https://t.me/ApplaFableBot) - No-code builder for business Mini Apps: QR menu, online booking, loyalty card. 12 languages, free preview, publish with Stars.
 - [Apps Father](https://apps-father.com) - AI builder to create, publish, and update Telegram Mini Apps from a plain-text description, with built-in Telegram Stars and TON payments.
 - [BookClass](https://t.me/BookClassBot) - Class booking Mini App for studios, trainers, and instructors of any kind.
